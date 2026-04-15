@@ -53,5 +53,5 @@ Unlike standard AI checkers, HalluciScan operates on a "Guilty Until Proven Inno
 
 ---
 
-### Created with ❤️ by [Onoja](https://github.com/Donmaston09)
+### Created with ❤️ by [Anthony Onoja](https://github.com/Donmaston09), Email: donmaston09@gmail.com
 **Support the Project**: [PayPal.me/Onoja412](https://paypal.me/Onoja412)
